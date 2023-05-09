@@ -15,5 +15,5 @@ Finalizando, adicionar a opção de aumentar o salário do funcionário a partir
 Aqui estão os responsáveis pelos exercícios e suas propostas, assim como, o curso de onde foram retirados os exércicios:
 
 (Curso: C# COMPLETO - Programação Orientada a Objetos + Projetos)
-http://educandoweb.com.br
-Prof. Dr. Nelio Alves
+- http://educandoweb.com.br
+- Prof. Dr. Nelio Alves

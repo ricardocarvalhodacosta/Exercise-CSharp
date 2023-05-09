@@ -11,6 +11,14 @@ o valor da sua área, perimetro e diagonal;
 Construir um programa que guarde o nome, salário bruto e imposto de um funcionário e entregue o valor líquido do salário final;
 Finalizando, adicionar a opção de aumentar o salário do funcionário a partir de um calculo de % (porcentagem) aplicada no console;
 
+# Exercício 3
+Construir um programa que faça o calculo da média de um aluno, informando se o aluno foi aprovado e reprovado e caso reprovado
+quantos pontos da média faltaram para ele ser aprovado;
+A base para as notas é:
+- Primeira nota vale de 0 a 30;
+- Segunda e terceira nota vale de 0 a 35;
+- Media para passar é 60.0;
+
 # Fontes
 Aqui estão os responsáveis pelos exercícios e suas propostas, assim como, o curso de onde foram retirados os exércicios:
 

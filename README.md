@@ -1,6 +1,6 @@
 # Exercise-CSharp
 
-Repositório criado para upar os exércicios que estou praticando com a linguagem C#;
+Repositório criado para upar os exercícios que estou praticando com a linguagem C#;
 Conforme for construindo os códigos dos exércicios irei publicando aqui, caso alguém tenha interesse em tentar replica-los.
 
 # Exercício 1
@@ -12,7 +12,7 @@ Construir um programa que guarde o nome, salário bruto e imposto de um funcion�
 Finalizando, adicionar a opção de aumentar o salário do funcionário a partir de um calculo de % (porcentagem) aplicada no console;
 
 # Fontes
-Aqui estão os responsáveis pelos exércicios e suas propostas, assim como, o curso de onde foram retirados os exércicios:
+Aqui estão os responsáveis pelos exercícios e suas propostas, assim como, o curso de onde foram retirados os exércicios:
 
 (Curso: C# COMPLETO - Programação Orientada a Objetos + Projetos)
 http://educandoweb.com.br

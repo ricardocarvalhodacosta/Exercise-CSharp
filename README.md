@@ -19,6 +19,11 @@ A base para as notas é:
 - Segunda e terceira nota vale de 0 a 35;
 - Media para passar é 60.0;
 
+# Exercício 4
+
+Construir um programa que faça o calculo do valor do dólar requisitado, para então, convertê-lo em reais.
+O valor em reais que será pago é mostrado no console junto ao cálculo do IOF (6%);
+
 # Fontes
 Aqui estão os responsáveis pelos exercícios e suas propostas, assim como, o curso de onde foram retirados os exércicios:
 

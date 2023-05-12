@@ -24,6 +24,11 @@ A base para as notas é:
 Construir um programa que faça o calculo do valor do dólar requisitado, para então, convertê-lo em reais.
 O valor em reais que será pago é mostrado no console junto ao cálculo do IOF (6%);
 
+# Exercício 5
+
+Construir um programa que simule a movimentação de uma conta bancária, onde a mesma é criada e que haja transações nela
+de "saldo inicial", deposito e saque.
+
 # Fontes
 Aqui estão os responsáveis pelos exercícios e suas propostas, assim como, o curso de onde foram retirados os exércicios:
 

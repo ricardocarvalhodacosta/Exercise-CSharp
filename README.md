@@ -29,6 +29,11 @@ O valor em reais que será pago é mostrado no console junto ao cálculo do IOF 
 Construir um programa que simule a movimentação de uma conta bancária, onde a mesma é criada e que haja transações nela
 de "saldo inicial", deposito e saque.
 
+# Exercício 6
+
+Criar um programa que colete uma quantidade de alunos que irão se hospedar em um hotel de 10 quartos e armazenar em "vetores" os dados
+de cada aluno e seus respectivos quartos. Depois imprimir na tela em ordem crescente quais quartos estão ocupados.
+
 # Fontes
 Aqui estão os responsáveis pelos exercícios e suas propostas, assim como, o curso de onde foram retirados os exércicios:
 

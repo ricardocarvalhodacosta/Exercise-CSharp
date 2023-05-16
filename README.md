@@ -34,6 +34,11 @@ de "saldo inicial", deposito e saque.
 Criar um programa que colete uma quantidade de alunos que irão se hospedar em um hotel de 10 quartos e armazenar em "vetores" os dados
 de cada aluno e seus respectivos quartos. Depois imprimir na tela em ordem crescente quais quartos estão ocupados.
 
+# Exercício 7
+
+Criar um programa que adicione funcionários de uma empresa com ID, Nome e Salário.
+O programa deve conseguir buscar pelo ID o funcionário e colocar um acrescimo salarial a partir da entrada da porcentagem escolhida.
+
 # Fontes
 Aqui estão os responsáveis pelos exercícios e suas propostas, assim como, o curso de onde foram retirados os exércicios:
 

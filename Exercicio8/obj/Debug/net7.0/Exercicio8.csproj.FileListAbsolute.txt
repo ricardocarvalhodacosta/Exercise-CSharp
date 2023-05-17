@@ -1,0 +1,15 @@
+C:\Users\Estudos C#\source\repos\Exercicios\Exercicio8\bin\Debug\net7.0\Exercicio8.exe
+C:\Users\Estudos C#\source\repos\Exercicios\Exercicio8\bin\Debug\net7.0\Exercicio8.deps.json
+C:\Users\Estudos C#\source\repos\Exercicios\Exercicio8\bin\Debug\net7.0\Exercicio8.runtimeconfig.json
+C:\Users\Estudos C#\source\repos\Exercicios\Exercicio8\bin\Debug\net7.0\Exercicio8.dll
+C:\Users\Estudos C#\source\repos\Exercicios\Exercicio8\bin\Debug\net7.0\Exercicio8.pdb
+C:\Users\Estudos C#\source\repos\Exercicios\Exercicio8\obj\Debug\net7.0\Exercicio8.csproj.AssemblyReference.cache
+C:\Users\Estudos C#\source\repos\Exercicios\Exercicio8\obj\Debug\net7.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudos C#\source\repos\Exercicios\Exercicio8\obj\Debug\net7.0\Exercicio8.AssemblyInfoInputs.cache
+C:\Users\Estudos C#\source\repos\Exercicios\Exercicio8\obj\Debug\net7.0\Exercicio8.AssemblyInfo.cs
+C:\Users\Estudos C#\source\repos\Exercicios\Exercicio8\obj\Debug\net7.0\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Estudos C#\source\repos\Exercicios\Exercicio8\obj\Debug\net7.0\Exercicio8.dll
+C:\Users\Estudos C#\source\repos\Exercicios\Exercicio8\obj\Debug\net7.0\refint\Exercicio8.dll
+C:\Users\Estudos C#\source\repos\Exercicios\Exercicio8\obj\Debug\net7.0\Exercicio8.pdb
+C:\Users\Estudos C#\source\repos\Exercicios\Exercicio8\obj\Debug\net7.0\Exercicio8.genruntimeconfig.cache
+C:\Users\Estudos C#\source\repos\Exercicios\Exercicio8\obj\Debug\net7.0\ref\Exercicio8.dll

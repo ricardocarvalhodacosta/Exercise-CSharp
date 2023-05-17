@@ -39,6 +39,11 @@ de cada aluno e seus respectivos quartos. Depois imprimir na tela em ordem cresc
 Criar um programa que adicione funcionários de uma empresa com ID, Nome e Salário.
 O programa deve conseguir buscar pelo ID o funcionário e colocar um acrescimo salarial a partir da entrada da porcentagem escolhida.
 
+# Exercício 8
+
+Criar um programa que crie uma grade matriz para armazenar valores inteiros;
+Obter um valor X e imprimir no console sua posição e os valores que estão paralelos a ele.
+
 # Fontes
 Aqui estão os responsáveis pelos exercícios e suas propostas, assim como, o curso de onde foram retirados os exércicios:
 

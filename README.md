@@ -44,6 +44,11 @@ O programa deve conseguir buscar pelo ID o funcionário e colocar um acrescimo s
 Criar um programa que crie uma grade matriz para armazenar valores inteiros;
 Obter um valor X e imprimir no console sua posição e os valores que estão paralelos a ele.
 
+# Exercício 9
+
+Criar um programa que armazene o cargo do funcionário, nome, salário base e que calcule quantos contratos ele possui e quais valores
+são somados em seu salário a partir das horas trabalhadas e valor por horas trabalhadas.
+
 # Fontes
 Aqui estão os responsáveis pelos exercícios e suas propostas, assim como, o curso de onde foram retirados os exércicios:
 

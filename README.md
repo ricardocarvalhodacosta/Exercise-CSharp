@@ -49,6 +49,10 @@ Obter um valor X e imprimir no console sua posição e os valores que estão par
 Criar um programa que armazene o cargo do funcionário, nome, salário base e que calcule quantos contratos ele possui e quais valores
 são somados em seu salário a partir das horas trabalhadas e valor por horas trabalhadas.
 
+# Exercício 10
+
+Criar um programa que crie um post e adicione comentários a ele, podendo ser adicionados quantos comentários quiser em formato de lista;
+
 # Fontes
 Aqui estão os responsáveis pelos exercícios e suas propostas, assim como, o curso de onde foram retirados os exércicios:
 

@@ -53,6 +53,10 @@ são somados em seu salário a partir das horas trabalhadas e valor por horas tr
 
 Criar um programa que crie um post e adicione comentários a ele, podendo ser adicionados quantos comentários quiser em formato de lista;
 
+# Exercício 11
+
+Criar um programa que armazene os dados de um cliente e que exiba os produtos comprados pelo mesmo e os valores total dos produtos;
+
 # Fontes
 Aqui estão os responsáveis pelos exercícios e suas propostas, assim como, o curso de onde foram retirados os exércicios:
 

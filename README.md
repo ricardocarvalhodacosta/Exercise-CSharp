@@ -57,6 +57,11 @@ Criar um programa que crie um post e adicione comentários a ele, podendo ser ad
 
 Criar um programa que armazene os dados de um cliente e que exiba os produtos comprados pelo mesmo e os valores total dos produtos;
 
+# Exércicio 12
+
+Criar um programa que liste produtos em três categorias, usados, comuns e importados. Os produtos usados devem armazenar a data de fabricação do produto e os importados
+adicionar o custo de importação no valor total do item;
+
 # Fontes
 Aqui estão os responsáveis pelos exercícios e suas propostas, assim como, o curso de onde foram retirados os exércicios:
 
